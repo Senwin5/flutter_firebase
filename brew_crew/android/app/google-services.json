@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359044947491",
+    "project_id": "sen-brew-crew",
+    "storage_bucket": "sen-brew-crew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359044947491:android:ed3942748278e3d8885b96",
+        "android_client_info": {
+          "package_name": "com.sen.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRcvlZZRUT4YGI5RPHC5PgEZSI5CpqmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
