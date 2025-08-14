@@ -1,3 +1,4 @@
+import 'package:brew_crew/screen/authenticate/authenticate.dart';
 import 'package:brew_crew/screen/wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
